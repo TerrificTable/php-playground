@@ -1,6 +1,9 @@
 # php-playground
 uh just some php cuz im learning it/learned it
 
+# Bin
+A list of some Operations and Datatypes within PHP
+
 # UID
 To get User Inputs (and saving them inside the URL)
 
